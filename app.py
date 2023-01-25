@@ -14,7 +14,7 @@ def favicon():
                                'favicon.ico', mimetype='image/vnd.microsoft.icon')
 
 @app.route('/hello', methods=['POST'])
-def hello():
+def "Chodya tu Kon"():
    name = request.form.get('name')
 
    if name:
