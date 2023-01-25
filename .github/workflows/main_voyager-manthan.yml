@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'voyager-manthan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C961163A6424B118A33890C83397FC5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_478EBB2F11F349E3A91D652E5E278520 }}
